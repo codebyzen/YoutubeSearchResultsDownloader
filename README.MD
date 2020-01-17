@@ -6,7 +6,7 @@ YouTube search results downloader
 
 Install tampermonkey for chrome or firefox
 
-Add new UserScript [a relative link](userscript.js)
+Add new UserScript [userscript.js](userscript.js)
 
 Install youtube-dl `sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o ./bin/youtube-dl`
 
