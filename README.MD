@@ -29,4 +29,4 @@ Run `./dl.py -f list.txt`
 #### Info ####
 Video will be downloaded to folders by years.
 
-Example `My first homevideo!!!` uploaded to YouTube in 2017. It will be downloaded to `./2019/my-first-homevideo.mp4`
+Example `My first homevideo!!!` uploaded to YouTube in 2017. It will be downloaded to `./2017/my-first-homevideo.mp4`
